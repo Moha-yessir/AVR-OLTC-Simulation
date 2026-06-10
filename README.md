@@ -43,7 +43,7 @@ This repository contains the simulation files and technical documentation for my
 > Digital measurement displays showing steady-state regulated voltage and final tap position.
 
 ### 6. Steady-State Voltage Profile
-![Voltage Profile](./IMG_6990.jpeg)
+![Voltage Profile](./IMG_6989.jpeg)
 > Steady-state performance of the AVR from t=0, ensuring a constant 1.0 p.u. voltage profile.
 
 ## Contributors

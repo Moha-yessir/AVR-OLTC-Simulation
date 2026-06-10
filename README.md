@@ -46,6 +46,10 @@ This repository contains the simulation files and technical documentation for my
 ![Voltage Profile](./IMG_6989.jpeg)
 > Steady-state performance of the AVR from t=0, ensuring a constant 1.0 p.u. voltage profile.
 
+### 7. MATLAB Control Script
+![MATLAB Script](./IMG_7004.jpeg)
+> MATLAB Control Logic Script for OLTC Tap-Changer Automation.
+
 ## Contributors
 * **Mohamed Yessir Mustafa Abubakar** - *Electrical Power Engineer Graduate*
 ## License

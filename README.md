@@ -27,7 +27,7 @@ This repository contains the simulation files and technical documentation for my
 > The overall MATLAB/Simulink model of the proposed AVR-OLTC distribution system.
 
 ### 2. Control Logic Architecture
-![Control Logic](./IMG_6983.jpeg)
+![Control Logic](./IMG_6985.jpeg)
 > Internal architecture of the symmetrical logic control showing AND gates synchronization.
 
 ### 3. System Response Without AVR

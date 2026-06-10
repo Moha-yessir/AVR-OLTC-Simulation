@@ -1,2 +1,22 @@
-# AVR-OLTC-Simulation
-B.Sc. Electrical Engineering co-authored graduation project: Design and simulation of an AVR for a distribution transformer using OLTC
+# Design and Simulation of an AVR for a Distribution Transformer Using OLTC
+
+## About The Project
+This repository contains the simulation files and technical documentation for my Electrical Engineering graduation project. The project focuses on stabilizing power distribution networks by designing and simulating an Automatic Voltage Regulator (AVR) integrated with an On-Load Tap Changer (OLTC) for distribution transformers.
+
+## Software & Tools Used
+* **MATLAB & Simulink:** For dynamic system modeling and simulation.
+* **ETAP:** For electrical power system analysis.
+* **AutoCAD:** For schematics and block diagrams.
+
+## Key Objectives
+* Simulate voltage fluctuations in a distribution network.
+* Design a control logic for the OLTC to automatically adjust tap positions.
+* Analyze system stability and voltage regulation performance before and after AVR integration.
+
+## Repository Contents
+* `/Simulink_Models`: Contains the `.slx` files for the AVR and OLTC simulation.
+* `/Results`: Contains graphical plots showing voltage stability and system response.
+* `/Documentation`: Project abstract and technical presentation (PDF).
+
+## Contributors
+* **Mohamed Yessir Mustafa Abubakar** - *Electrical Power Engineer*

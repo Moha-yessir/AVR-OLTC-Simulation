@@ -31,7 +31,7 @@ This repository contains the simulation files and technical documentation for my
 > Internal architecture of the symmetrical logic control showing AND gates synchronization.
 
 ### 3. System Response Without AVR
-![Without AVR](./IMG_6985.jpeg)
+![Without AVR](./IMG_6986.jpeg)
 > System response under heavy loading without AVR activation (Voltage at 0.95 p.u.).
 
 ### 4. Dynamic Response With AVR

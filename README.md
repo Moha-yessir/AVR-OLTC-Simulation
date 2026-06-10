@@ -1,5 +1,7 @@
-# Design and Simulation of an AVR for a Distribution Transformer Using OLTC
-
+# Design and Simulation of an Automatic Voltage Regulator (AVR) for a Distribution Transformer Using OLTC
+![Status](https://img.shields.io/badge/Status-Completed-green)
+![Tool](https://img.shields.io/badge/Tool-ETAP-blue)
+![Tool](https://img.shields.io/badge/Tool-MATLAB-orange)
 ## About The Project
 This repository contains the simulation files and technical documentation for my Electrical Engineering graduation project. The project focuses on stabilizing power distribution networks by designing and simulating an Automatic Voltage Regulator (AVR) integrated with an On-Load Tap Changer (OLTC) for distribution transformers.
 
@@ -19,4 +21,7 @@ This repository contains the simulation files and technical documentation for my
 * `/Documentation`: Project abstract and technical presentation (PDF).
 
 ## Contributors
-* **Mohamed Yessir Mustafa Abubakar** - *Electrical Power Engineer*
+* **Mohamed Yessir Mustafa Abubakar** - *Electrical Power Engineer Graduate*
+## License
+This project is submitted as an academic graduation requirement.
+All rights reserved ©️ 2026 Mohamed Yessir Mustafa Abubakar

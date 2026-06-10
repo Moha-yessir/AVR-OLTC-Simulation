@@ -18,7 +18,8 @@ This repository contains the simulation files and technical documentation for my
 ## Repository Contents
 * `/Simulink_Models`: Contains the `.slx` files for the AVR and OLTC simulation.
 * `/Results`: Contains graphical plots showing voltage stability and system response.
-* `/Documentation`: Project abstract and technical presentation (PDF).
+* `/Documentation`: Project abstract and technical presentation — [📄 Download PDF](./MMO_Graduation_Project.pdf)
+
 
 ## Simulation & Results
 
@@ -60,4 +61,5 @@ This repository contains the simulation files and technical documentation for my
 
 ## License
 This project is submitted as an academic graduation requirement.
-All rights reserved ©️ 2026 Mohamed Yessir Mustafa Abubakar
+All rights reserved © 2026 Mohamed Yessir Mustafa Abubakar, Omer Ali Ibrahim & Mohamed Khalid Yassin
+

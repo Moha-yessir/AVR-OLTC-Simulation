@@ -20,6 +20,32 @@ This repository contains the simulation files and technical documentation for my
 * `/Results`: Contains graphical plots showing voltage stability and system response.
 * `/Documentation`: Project abstract and technical presentation (PDF).
 
+## Simulation & Results
+
+### 1. Overall System Model
+![Overall Model](./IMG_6982.jpeg)
+> The overall MATLAB/Simulink model of the proposed AVR-OLTC distribution system.
+
+### 2. Control Logic Architecture
+![Control Logic](./IMG_6983.jpeg)
+> Internal architecture of the symmetrical logic control showing AND gates synchronization.
+
+### 3. System Response Without AVR
+![Without AVR](./IMG_6985.jpeg)
+> System response under heavy loading without AVR activation (Voltage at 0.95 p.u.).
+
+### 4. Dynamic Response With AVR
+![With AVR](./IMG_6986.jpeg)
+> Dynamic response of the AVR showing the 3-step tap transition and voltage restoration to 1.0 p.u.
+
+### 5. Steady-State Measurements
+![Measurements](./IMG_6989.jpeg)
+> Digital measurement displays showing steady-state regulated voltage and final tap position.
+
+### 6. Steady-State Voltage Profile
+![Voltage Profile](./IMG_6990.jpeg)
+> Steady-state performance of the AVR from t=0, ensuring a constant 1.0 p.u. voltage profile.
+
 ## Contributors
 * **Mohamed Yessir Mustafa Abubakar** - *Electrical Power Engineer Graduate*
 ## License

@@ -51,7 +51,13 @@ This repository contains the simulation files and technical documentation for my
 > MATLAB Control Logic Script for OLTC Tap-Changer Automation.
 
 ## Contributors
-* **Mohamed Yessir Mustafa Abubakar** - *Electrical Power Engineer Graduate*
+* **Mohamed Yessir Mustafa Abubakar** — *Electrical Power Engineer Graduate*
+* **Omer Ali Ibrahim** — *Electrical Power Engineer Graduate*
+* **Mohamed Khalid Yassin** — *Electrical Power Engineer Graduate*
+
+## Supervisor
+* **Dr. Mashaair Elsir Rabbah Rahama** — *Project Supervisor*
+
 ## License
 This project is submitted as an academic graduation requirement.
 All rights reserved ©️ 2026 Mohamed Yessir Mustafa Abubakar

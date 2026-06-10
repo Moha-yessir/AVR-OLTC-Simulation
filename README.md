@@ -35,7 +35,7 @@ This repository contains the simulation files and technical documentation for my
 > System response under heavy loading without AVR activation (Voltage at 0.95 p.u.).
 
 ### 4. Dynamic Response With AVR
-![With AVR](./IMG_6986.jpeg)
+![With AVR](./IMG_6983.jpeg)
 > Dynamic response of the AVR showing the 3-step tap transition and voltage restoration to 1.0 p.u.
 
 ### 5. Steady-State Measurements

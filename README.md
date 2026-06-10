@@ -39,7 +39,7 @@ This repository contains the simulation files and technical documentation for my
 > Dynamic response of the AVR showing the 3-step tap transition and voltage restoration to 1.0 p.u.
 
 ### 5. Steady-State Measurements
-![Measurements](./IMG_6989.jpeg)
+![Measurements](./IMG_6990.jpeg)
 > Digital measurement displays showing steady-state regulated voltage and final tap position.
 
 ### 6. Steady-State Voltage Profile

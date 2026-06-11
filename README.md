@@ -60,5 +60,5 @@ This repository contains the simulation files and technical documentation for my
 
 ## License
 This project is submitted as an academic graduation requirement.
-All rights reserved © 2026 Mohamed Yessir Mustafa Abubakar, Omer Ali Ibrahim & Mohamed Khalid Yassin
+All rights reserved © 2026 Mohamed Yessir Mustafa Abubaker, Omer Ali Ibrahim & Mohamed Khalid Yassin
 

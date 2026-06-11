@@ -56,7 +56,10 @@ This repository contains the simulation files and technical documentation for my
 * **Mohamed Khalid Yassin** — *Electrical Power Engineer Graduate*
 
 ## Supervisor
-* **Dr. Mashaair Elsir Rabbah Rahama** — *Project Supervisor*
+* **Dr. Mashaair Elsir Rabbah Rahama** — *Academic Supervisor | M.Sc. Power Systems & Electrical Machines*
+
+
+
 
 ## License
 This project is submitted as an academic graduation requirement.
